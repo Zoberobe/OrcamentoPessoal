@@ -5,7 +5,7 @@ class Despesa{
         this.Dia = Dia
         this.Tipo = Tipo
         this.Descricao = Descricao
-        this.Valor = Valor
+        this.Valor = "R$ " + Valor
 
     }
 
